@@ -1,0 +1,17 @@
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\EMPRESA ERERI.exe.config
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\EMPRESA ERERI.exe
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\EMPRESA ERERI.pdb
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\Google.Protobuf.dll
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\MySql.Data.dll
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\Google.Protobuf.xml
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\bin\Debug\MySql.Data.xml
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.csprojAssemblyReference.cache
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA_ERERI.Form1.resources
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA_ERERI.Properties.Resources.resources
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.csproj.GenerateResource.cache
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.csproj.CoreCompileInputs.cache
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.csproj.CopyComplete
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.exe
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA ERERI.pdb
+C:\Users\maiza\source\repos\EMPRESA ERERI\EMPRESA ERERI\obj\Debug\EMPRESA_ERERI.Form0.resources
